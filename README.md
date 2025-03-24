@@ -15,3 +15,5 @@ ref: https://apple.stackexchange.com/a/83923
 - AlDente: https://apphousekitchen.com/
 
 ## TODO: Setup nix
+
+Ref: https://www.youtube.com/watch?v=GK7zLYAXdDs
